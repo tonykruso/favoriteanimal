@@ -1,3 +1,4 @@
 # favoriteanimal
 
-it's a yorkie.
+simple html page that shows my favorite animal with a photo. one of my first websites! ;)
+
